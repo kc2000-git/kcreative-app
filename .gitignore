@@ -1,0 +1,8 @@
+# secrets: passwords, API keys, AWS key files
+.env
+secrets.txt
+*.pem
+# logs and junk
+*.log
+.DS_Store
+node_modules/
